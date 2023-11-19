@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/gaylor-wiki/gaylor-vault",
+    GitHub: "https://github.com/hairpinfiles/hairpinfiles",
       // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
