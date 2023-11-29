@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌼 Gaylor Vault",
+    pageTitle: "The Hairpin Files",
     enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "gaylor-wiki.github.io",
+    baseUrl: "hairpinfiles.pages.dev",
     ignorePatterns: [".obsidian", ".github", "_**/**"],
     defaultDateType: "created",
     theme: {
